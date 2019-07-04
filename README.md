@@ -4,10 +4,10 @@ Analyse the activity of Whatsapp group chat participants.
 ## Analysis
 
 Activity per participant:
-![](activity.png)
+<img src="activity.png" alt="drawing" width="600"/>
 
 Group activity per day:
-![](activity_day.png)
+<img src="activity_day.png" alt="drawing" width="600"/>
 
 Activity per participant per hour of day:
-![](activity_hour.png)
+<img src="activity_hour.png" alt="drawing" width="600"/>
